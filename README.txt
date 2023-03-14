@@ -1,1 +1,1 @@
-STABSAC - Statistical Tools Assisting Bracket Simulation, Analysis, and Creation
+STABSAC - Statistical Tools Assisting Tournament Simulation, Analysis, and Creation
